@@ -11,7 +11,8 @@
     </div>
     <h2 ><?php _e('Archives'); ?></h2>
     <ul > <?php Echo "<a href=http://localhost:8080>Home</a>" ?> </ul>
-    <ul > <?php Echo "<a href=http://localhost:8080/?page_id=6&preview_id=6&preview_nonce=16f8907f92&preview=true>About</a>" ?> </ul>
-    <ul > <?php Echo "<a href=http://localhost:8080/?page_id=7&preview_id=7&preview_nonce=b985d86787&preview=true>Comments</a>" ?> </ul>
+    <ul > <?php Echo "<a href=http://localhost:8080/?page_id=6>About</a>" ?> </ul>
+    <ul > <?php Echo "<a href=http://localhost:8080/?page_id=7>Comments</a>" ?> </ul>
+    <ul > <?php Echo "<a href=http://localhost:8080/?page_id=113>Rules and Regulations</a>" ?> </ul>
 
 </div>
